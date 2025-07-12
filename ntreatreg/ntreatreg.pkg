@@ -1,0 +1,6 @@
+D 'ntreatreg': Estimation of treatment effects in the presence of neighbourhood interactions Use ntreatreg With STATA 19
+D
+F mkomega.ado
+F mkomega.sthlp
+F ntreatreg.ado
+F ntreatreg.sthlp
